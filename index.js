@@ -54,4 +54,6 @@ for (const file of eventFiles) {
 
 }
 
+console.log("TOKEN:", process.env.TOKEN ? process.env.TOKEN.substring(0, 20) : "NOT FOUND");
+
 client.login(process.env.TOKEN);

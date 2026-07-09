@@ -8,7 +8,7 @@ module.exports = {
 
         footer: "7FR STORE",
 
-        banner: "https://chatgpt.com/backend-api/estuary/content?id=file_0000000043c0722fb28127abd8640752&ts=495440&p=fs&cid=1&sig=a7e4402d0d443abd116e3ad471a836f75f9dc1ea911ba83254cd4fcf9510a122&v=0"
+        banner: "https://i.imgur.com/sfNJ7SR.png"
 
     },
 
